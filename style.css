@@ -4,10 +4,12 @@ body{
 	margin-right: auto;
 	margin-left: auto;
 	background-image: url(https://wallpaperaccess.com/full/729354.jpg);
-	background-repeat: no-repeat;
-	background-size: cover ;
 	font-family: 'Georama', sans-serif;
-	color: black;
+	color: #000000;
+	height: 100%; 
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
 }
 h2{
 	text-align: center;
