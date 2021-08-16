@@ -1,0 +1,29 @@
+body{
+	margin: 0;
+	padding: 0;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(https://wallpaperaccess.com/full/729354.jpg);
+	background-repeat: no-repeat;
+	background-size: cover ;
+	font-family: 'Georama', sans-serif;
+	color: black;
+}
+h2{
+	text-align: center;
+	
+}
+input,form{
+	text-align: center;
+	font-size: medium;
+	border: none;
+	border-radius: 5px;
+	cursor: auto;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+p{
+	text-align: center;
+}
